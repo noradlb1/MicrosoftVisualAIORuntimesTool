@@ -4,7 +4,7 @@ MicrosoftVisualAIORuntimesTool
 
 
 
-![Visualstudio Úvod GIF](https://user-images.githubusercontent.com/74623428/233642143-aaa27f7f-f36f-4657-95cb-425129f65e51.gif)
+               ![Visualstudio Úvod GIF](https://user-images.githubusercontent.com/74623428/233642143-aaa27f7f-f36f-4657-95cb-425129f65e51.gif)
 
 
 
