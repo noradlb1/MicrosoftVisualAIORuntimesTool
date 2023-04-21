@@ -15,3 +15,7 @@ MicrosoftVisualAIORuntimesTool
 - [x] vcredist2015_2017_2019_2022_x64.exe
 - [x] vcredist2015_2017_2019_2022_x86.exe
 - [x] [Download](https://github.com/noradlb1/MicrosoftVisualAIORuntimesTool/releases) 
+
+[Video](https://youtu.be/IiKXPw5t0i4).
+
+[Discord Server](https://discord.com).
