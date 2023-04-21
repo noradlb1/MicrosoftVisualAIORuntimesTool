@@ -18,4 +18,4 @@ MicrosoftVisualAIORuntimesTool
 
 [Video](https://youtu.be/IiKXPw5t0i4).
 
-[Discord Server](https://discord.com).
+[Discord Server]([https://discord.com](https://discord.gg/YMNUCersTM)).
