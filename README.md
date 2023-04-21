@@ -4,7 +4,6 @@ MicrosoftVisualAIORuntimesTool
 
 <p align="center">
 <img src="(https://i.postimg.cc/Vk923hHg/Visualstudio-vod-GIF.gif", width="300", height="300">
-</p>
 
 
 
